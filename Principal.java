@@ -8,6 +8,7 @@ public class hola {
 		System.out.println("Rama A Version 1");
 		System.out.println("Rama B Version 1");
 		System.out.println("Cambio 1 en Remoto");
+		System.out.println("Cambio 1 en Local");
 	}
 
 }
